@@ -1,4 +1,47 @@
-### Hi there 👋
+# Hi there, I'm Rogan Oh (DongGeun Oh) 👋
+
+----
+## I'm Rogan Oh who want's to become good communicator
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoganOhDev&show_icons=true&theme=darcula)
+
+
+
+<a href="https://www.linkedin.com/in/rogan-oh-7b70671ab/" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/rogan-oh-7b70671ab/"/></a>
+<a href="mailto:fdscbjdcnhd@gmail.com" target="_blank"><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:fdscbjdcnhd@gmail.com"/></a>
+
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54"/></a>
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=FastApi&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/></a>
+
+
+
+
+
+
+
+
+
 <!--
 **roganOhDev/roganOhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
