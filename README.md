@@ -1,6 +1,5 @@
 # Hi there, I'm Rogan Oh (DongGeun Oh) 👋
 
-----
 ## Who want's to become a good communicator
 
 ## 🔭 I’m currently working on ...
@@ -9,7 +8,7 @@
    * Backend Engineer (2021.1 ~ 2022.12)
     
 
-* <a href="https://www.kookmin.ac.kr/user/index.do">  Kookmin Univ.</a>
+* <a href="https://www.kookmin.ac.kr/user/index.do">  Kookmin Univ.</a> (2018.3 ~ )
 *   * <a href="https://ee.kookmin.ac.kr/"> Major : Electronic Engineering - Electronic System</a>
     * <a href="https://cs.kookmin.ac.kr/"> Minor : CS (Computer Science)</a>
     
