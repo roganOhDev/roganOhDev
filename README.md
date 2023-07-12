@@ -15,8 +15,8 @@
     
     
 ## 🌱 I’m currently learning ...
-* CS in school
-* Cpp
+* Node JS
+* AI Engineering
 * Docker
 
 -------------------------
