@@ -15,9 +15,8 @@
     
     
 ## 🌱 I’m currently learning ...
-* Node JS
-* AI Engineering
-* Docker
+* oauth2 with spring security web & JWT & JWK
+* GRE
 
 -------------------------
 
