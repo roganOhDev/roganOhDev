@@ -3,6 +3,10 @@
 ## Who want's to become a good communicator
 
 ## 🔭 I’m currently working on ...
+
+* <a href="https://www.oriongovernance.com/"> Orion Governance </a>
+*  * Software Engineer (2023.07 ~ )
+
 * <a href="https://querypie.com/en"> CHEQUER </a>
 *  * Data Engineer & Data Analyst (2020.5 ~ 2020.12)
    * Backend Engineer (2021.1 ~ 2022.12)
