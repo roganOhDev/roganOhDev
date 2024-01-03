@@ -19,7 +19,7 @@
     
     
 ## 🌱 I’m currently learning ...
-* oauth2 with spring security web & JWT & JWK
+* Java Script
 * Type Script
 
 -------------------------
