@@ -19,8 +19,8 @@
     
     
 ## 🌱 I’m currently learning ...
-* Java Script
-* Type Script
+  <img src="https://img.shields.io/badge/nodejs-339933?style=plastic&logo=nodedotjs&logoColor=ffdd54"/></a>
+  <br/><img src="https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white"/></a>
 
 -------------------------
 
