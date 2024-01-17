@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54"/></a>
 <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffdd54"/></a>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=nodedotjs&logoColor=3178C6"/></a>
 
 ### 🛠 Framework Stack 🛠 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
