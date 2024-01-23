@@ -4,8 +4,11 @@
 
 ## 🔭 I’m currently working on ...
 
+* <a href="https://chartmetric.com/en"> Chartmetric </a>
+*  * Software Engineer (2024.01 ~ )
+
 * <a href="https://www.oriongovernance.com/"> Orion Governance </a>
-*  * Software Engineer (2023.07 ~ )
+*  * Software Engineer (2023.07 ~ 2023.12)
 
 * <a href="https://querypie.com/en"> CHEQUER </a>
 *  * Data Engineer & Data Analyst (2020.5 ~ 2020.12)
