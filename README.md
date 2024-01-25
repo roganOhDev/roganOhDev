@@ -5,7 +5,7 @@
 ## 🔭 I’m currently working on ...
 
 * <a href="https://chartmetric.com/en"> Chartmetric </a>
-*  * Software Engineer (2024.01 ~ )
+*  * Backend Engineer (2024.01 ~ )
 
 * <a href="https://www.oriongovernance.com/"> Orion Governance </a>
 *  * Software Engineer (2023.07 ~ 2023.12)
