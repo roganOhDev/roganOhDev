@@ -28,7 +28,7 @@
 -------------------------
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoganOhDev&show_icons=true&theme=darcula)
+![Anurag's GitHub stats](https://github-readme-stats-pearl-nine.vercel.app/api?username=RoganOhDev&show_icons=true&theme=darcula)
 
 
 ### 🛠 Language Stack 🛠 
