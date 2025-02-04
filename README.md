@@ -4,6 +4,9 @@
 
 ## 🔭 I’m currently working on ...
 
+* <a href="https://www.hanyang.ac.kr/"> Graduate program at Hanyang University </a> (2025.02 ~ )
+*  * <a href="http://imc.hanyang.ac.kr/> IMC lab </a>
+
 * <a href="https://chartmetric.com/en"> Chartmetric </a>
 *  * Backend Engineer (2024.01 ~ )
 
@@ -15,7 +18,7 @@
    * Backend Engineer (2021.1 ~ 2022.12)
     
 
-* <a href="https://www.kookmin.ac.kr/user/index.do">  Kookmin Univ.</a> (2018.3 ~ )
+* <a href="https://www.kookmin.ac.kr/user/index.do">  Kookmin Univ.</a> (2018.3 ~ 2025.2)
 *   * <a href="https://ee.kookmin.ac.kr/"> Major : Electronic Engineering - Electronic System</a>
     * <a href="https://cs.kookmin.ac.kr/"> Minor : CS (Computer Science)</a>
     
