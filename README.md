@@ -25,6 +25,7 @@
     
     
 ## 🌱 I’m currently learning ...
+<img src="https://github.com/user-attachments/assets/3684d23c-29ea-4367-af62-902a29080df6" width="50" height="50"/>
 ![Screenshot 2025-02-04 at 2 21 53 PM](https://github.com/user-attachments/assets/3684d23c-29ea-4367-af62-902a29080df6)
 ![Screenshot 2025-02-04 at 2 22 14 PM](https://github.com/user-attachments/assets/747ddf48-a2fd-4827-ba2b-5af6d8199174)
 ![pngwing com](https://github.com/user-attachments/assets/4e9b1843-0c1a-4574-8b6a-ceef8ec9a8c2)
