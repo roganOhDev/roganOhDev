@@ -27,7 +27,7 @@
 ## 🌱 I’m currently learning ...
 <img src="https://github.com/user-attachments/assets/3684d23c-29ea-4367-af62-902a29080df6" width="100" height="100"/>
 <img src="https://github.com/user-attachments/assets/747ddf48-a2fd-4827-ba2b-5af6d8199174" width="100" height="100"/>
-<img src="https://github.com/user-attachments/assets/4e9b1843-0c1a-4574-8b6a-ceef8ec9a8c2" width="100" height="100"/>
+<img src="https://github.com/user-attachments/assets/4e9b1843-0c1a-4574-8b6a-ceef8ec9a8c2" width="150" height="100"/>
 
 
 -------------------------
