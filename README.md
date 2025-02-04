@@ -4,7 +4,7 @@
 
 ## 🔭 I’m currently working on ...
 
-* <a href="https://www.hanyang.ac.kr/"> Graduate program at Hanyang University </a> (2025.02 ~ )
+* <a href="https://www.hanyang.ac.kr/"> Graduate program at Hanyang Univ. </a> (2025.02 ~ )
 *  * <a href="http://imc.hanyang.ac.kr/"> IMC lab(Intelligent Mobile Computing Research Lab) </a>
 
 * <a href="https://chartmetric.com/en"> Chartmetric </a>
