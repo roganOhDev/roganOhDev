@@ -20,7 +20,7 @@
 
 * <a href="https://www.kookmin.ac.kr/user/index.do">  Kookmin Univ.</a> (2018.3 ~ 2025.2)
 *   * <a href="https://ee.kookmin.ac.kr/"> Major : Electronic Engineering - Electronic System</a>
-    * <a href="https://cs.kookmin.ac.kr/"> Minor : CS (Computer Science)</a>
+    * <a href="https://cs.kookmin.ac.kr/"> Minor : AI (Artificial Intelligence)</a>
     
     
     
