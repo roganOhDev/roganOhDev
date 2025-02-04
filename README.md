@@ -8,7 +8,7 @@
 *  * <a href="http://imc.hanyang.ac.kr/"> IMC lab(Intelligent Mobile Computing Research Lab) </a>
 
 * <a href="https://chartmetric.com/en"> Chartmetric </a>
-*  * Backend Engineer (2024.01 ~ )
+*  * Backend Engineer (2024.01 ~ 2024.12)
 
 * <a href="https://www.oriongovernance.com/"> Orion Governance </a>
 *  * Software Engineer (2023.07 ~ 2023.12)
