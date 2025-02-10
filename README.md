@@ -13,12 +13,12 @@
 * <a href="https://www.oriongovernance.com/"> Orion Governance - San Mateo, USA</a> (2023.07 ~ 2023.12)
 *  * Software Engineer 
 
-* <a href="https://querypie.com/en"> CHEQUER - Seoul, Korea </a> (2020.5 ~ 2022.12)
+* <a href="https://querypie.com/en"> CHEQUER - Seoul, Korea </a> (2020.05 ~ 2022.12)
 *  * Data Engineer & Data Analyst 
    * Backend Engineer 
     
 
-* <a href="https://www.kookmin.ac.kr/user/index.do">  Kookmin Univ. - Seoul, Korea </a> (2018.3 ~ 2025.2)
+* <a href="https://www.kookmin.ac.kr/">  Kookmin Univ. - Seoul, Korea </a> (2018.03 ~ 2025.2)
 *   * <a href="https://ee.kookmin.ac.kr/"> Major : Electronic Engineering - Electronic System</a>
     * <a href="https://cs.kookmin.ac.kr/"> Minor : AI (Artificial Intelligence)</a>
     
