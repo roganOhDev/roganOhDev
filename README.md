@@ -7,7 +7,7 @@
 * <a href="https://www.hanyang.ac.kr/"> Graduate program at Hanyang Univ. </a> (2025.02 ~ )
 *  * <a href="http://imc.hanyang.ac.kr/"> IMC lab(Intelligent Mobile Computing Research Lab) </a>
 
-* <a href="https://chartmetric.com/en"> Chartmetric </a>
+* <a href="https://chartmetric.com/en"> Chartmetric - San Mateo, USA </a>
 *  * Backend Engineer (2024.01 ~ 2024.12)
 
 * <a href="https://www.oriongovernance.com/"> Orion Governance </a>
