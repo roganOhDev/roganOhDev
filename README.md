@@ -18,7 +18,7 @@
    * Backend Engineer 
     
 
-* <a href="https://www.kookmin.ac.kr/">  Kookmin Univ. - Seoul, Korea </a> (2018.03 ~ 2025.2)
+* <a href="https://www.kookmin.ac.kr/user/index.do">  Kookmin Univ. - Seoul, Korea </a> (2018.03 ~ 2025.2)
 *   * <a href="https://ee.kookmin.ac.kr/"> Major : Electronic Engineering - Electronic System</a>
     * <a href="https://cs.kookmin.ac.kr/"> Minor : AI (Artificial Intelligence)</a>
     
