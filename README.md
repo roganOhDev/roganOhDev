@@ -7,15 +7,15 @@
 * <a href="https://www.hanyang.ac.kr/"> Graduate program at Hanyang Univ. - Seoul, Korea </a> (2025.02 ~ )
 *  * <a href="http://imc.hanyang.ac.kr/"> IMC lab(Intelligent Mobile Computing Research Lab) </a>
 
-* <a href="https://chartmetric.com/en"> Chartmetric - San Mateo, USA </a>
-*  * Backend Engineer (2024.01 ~ 2024.12)
+* <a href="https://chartmetric.com/en"> Chartmetric - San Mateo, USA </a> (2024.01 ~ 2024.12)
+*  * Backend Engineer 
 
-* <a href="https://www.oriongovernance.com/"> Orion Governance - San Mateo, USA</a>
-*  * Software Engineer (2023.07 ~ 2023.12)
+* <a href="https://www.oriongovernance.com/"> Orion Governance - San Mateo, USA</a> (2023.07 ~ 2023.12)
+*  * Software Engineer 
 
-* <a href="https://querypie.com/en"> CHEQUER - Seoul, Korea </a>
-*  * Data Engineer & Data Analyst (2020.5 ~ 2020.12)
-   * Backend Engineer (2021.1 ~ 2022.12)
+* <a href="https://querypie.com/en"> CHEQUER - Seoul, Korea </a> (2020.5 ~ 2022.12)
+*  * Data Engineer & Data Analyst 
+   * Backend Engineer 
     
 
 * <a href="https://www.kookmin.ac.kr/user/index.do">  Kookmin Univ. - Seoul, Korea </a> (2018.3 ~ 2025.2)
