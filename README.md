@@ -37,7 +37,7 @@
 > <a href="https://doi.org/10.1145/3770855.3818875" target="_blank"><img src="https://img.shields.io/badge/DOI-Link-1081c2?style=flat-square&logo=doi&logoColor=white"/></a> <a href="https://github.com/imc-hanyang/BulkShield" target="_blank"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=FTTpqGmr3jE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 
 
-**EasyTrack: A scalable and general purpose platform for reliable data collection in mHealth studies** <img src="https://img.shields.io/badge/SCIE_Journal-00529B?style=flat-square&logo=elsevier&logoColor=white" align="center" />
+**EasyTrack: A scalable and general purpose platform for reliable data collection in mHealth studies** <img src="https://img.shields.io/badge/Type-Journal-00529B?style=flat-square&logo=elsevier&logoColor=white" align="center" /> <img src="https://img.shields.io/badge/Index-SCIE-00529B?style=flat-square" align="center" />
 * **Authors:** Alfred Malengo Kondoro, Kobiljon Toshnazarov, Muhammad Salman, **Donggeun Oh**, Yugyeong Jung, Uichin Lee, Youngtae Noh
 * **Venue:** SoftwareX, Volume 34 (2026)
 
