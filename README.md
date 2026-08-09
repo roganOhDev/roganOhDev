@@ -23,21 +23,20 @@
     * <a href="https://cs.kookmin.ac.kr/"> Minor : AI (Artificial Intelligence)</a>
 
 ## 📝 My publications are ...
+
 > **Research Focus:** Data Science, HCI, Explainable AI
-
-### 2026
-
-## 📝 Publications
-
-> **Research Focus:** Data Science, Cyber Security, and Anomaly Detection
 
 ### 2026
 
 **BulkShield: A Proactive Framework for Detecting Bulk Refund Booking in Ticketing Systems** <img src="https://img.shields.io/badge/Top_Tier-Conference-FF0000?style=flat-square&logo=SparkPost&logoColor=white" align="center" />
 * **Authors:** Seungyoung Shin, **Donggeun Oh**, Yongho Jeon, Jinju Noh, Iltaeck Joo, Youngtae Noh
 * **Venue:** Proceedings of the 32nd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining V.2 (KDD '26), *Aug 9–13, 2026 @ Jeju Island, Republic of Korea*
-> An end-to-end proactive framework combining unsupervised risk pseudo-labeling, temporal sequence modeling, and LLM-assisted explanations to detect and intervene in Incentive/Benefit Abuse (specifically Bulk Refund Booking) within railway ticketing systems.  
-> <a href="https://doi.org/10.1145/3770855.3818875" target="_blank"><img src="https://img.shields.io/badge/DOI-Link-1081c2?style=flat-square&logo=doi&logoColor=white"/></a> <a href="https://github.com/imc-hanyang/BulkShield" target="_blank"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+> An end-to-end proactive framework combining unsupervised risk pseudo-labeling, temporal sequence modeling, and LLM-assisted explanations to detect and intervene in Incentive/Benefit Abuse (specifically Bulk Refund Booking) within railway ticketing systems.
+>
+> <a href="https://doi.org/10.1145/3770855.3818875" target="_blank"><img src="https://img.shields.io/badge/DOI-Link-1081c2?style=flat-square&logo=doi&logoColor=white"/></a> <a href="https://github.com/imc-hanyang/BulkShield" target="_blank"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=FTTpqGmr3jE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+
+-------------------------
 
 -------------------------
     
