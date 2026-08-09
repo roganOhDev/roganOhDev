@@ -21,8 +21,22 @@
 * <a href="https://www.kookmin.ac.kr/user/index.do">  Kookmin Univ. - Seoul, Korea </a> (2018.03 ~ 2025.2)
 *   * <a href="https://ee.kookmin.ac.kr/"> Major : Electronic Engineering - Electronic System</a>
     * <a href="https://cs.kookmin.ac.kr/"> Minor : AI (Artificial Intelligence)</a>
-    
-    
+
+## 📝 My publications are ...
+> **Research Focus:** Data Science, HCI, Explainable AI
+
+### 2026
+
+**[KDD 2026]** <img src="https://img.shields.io/badge/Top_Tier-Conference-FFD700?style=flat-square&logo=SparkPost&logoColor=black" align="center" />
+* **Title:** *BulkShield: A Proactive Framework for Detecting Bulk Refund Booking in Ticketing Systems*
+* **Authors:** Seungyoung Shin, **Donggeun Oh**, Yongho Jeon, Jinju Noh, Iltaeck Joo, Youngtae Noh
+* **Venue:** Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '26), *Aug 9–13, 2026 @ Jeju Island, Republic of Korea*[cite: 1]
+* **TL;DR:** *An end-to-end proactive framework combining unsupervised risk pseudo-labeling, temporal sequence modeling, and LLM-assisted explanations to detect and intervene in Bulk Refund Booking (BRB) behavior within railway ticketing systems.*[cite: 1]
+* **Topic:** <img src="https://img.shields.io/badge/Domain-Incentive%2FBenefit_Abuse-3670A0?style=flat-square" /> <img src="https://img.shields.io/badge/Task-Anomaly_Detection-009688?style=flat-square" />
+* **Resources:**
+  <a href="https://doi.org/10.1145/3770855.3818875" target="_blank"><img src="https://img.shields.io/badge/DOI-10.1145%2F3770855.3818875-1081c2?style=for-the-badge&logo=doi&logoColor=white"/></a>[cite: 1]
+  <a href="https://github.com/imc-hanyang/BulkShield" target="_blank"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>[cite: 1]
+-------------------------   
     
 ## 🌱 I’m currently learning ...
 <img src="https://github.com/user-attachments/assets/3684d23c-29ea-4367-af62-902a29080df6" width="100" height="100"/>
@@ -79,27 +93,3 @@
 <a href="https://www.linkedin.com/in/rogan-oh-7b70671ab/" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/rogan-oh-7b70671ab/"/></a>
 <a href="mailto:fdscbjdcnhd@gmail.com" target="_blank"><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:fdscbjdcnhd@gmail.com"/></a>
 
-
-
-
-
-
-
-
-
-
-<!--
-**roganOhDev/roganOhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-pinned
--->
