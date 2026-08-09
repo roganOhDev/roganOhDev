@@ -39,7 +39,7 @@
 
 **EasyTrack: A scalable and general purpose platform for reliable data collection in mHealth studies** <img src="https://img.shields.io/badge/Journal-SoftwareX-FF0000?style=flat-square&logo=elsevier&logoColor=white" align="center" />
 * **Authors:** Alfred Malengo Kondoro, Kobiljon Toshnazarov, Muhammad Salman, **Donggeun Oh**, Yugyeong Jung, Uichin Lee, Youngtae Noh
-* **Venue:** SoftwareX, Volume 34 (2026)
+* **Venue:** **SoftwareX**, Volume 34 (2026)
 
 > A cloud-based, general-purpose platform designed to enable reliable, scalable, and interoperable longitudinal data collection in real-world mHealth studies by integrating configurable study management, high-throughput data ingestion, and continuous data quality monitoring.
 >
